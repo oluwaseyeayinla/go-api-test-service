@@ -23,6 +23,7 @@ func main() {
 	err := helpers.LoadUsers()
 
 	if nil != err {
+		log.Println(err)
 		panic("Unable to load users.")
 	}
 

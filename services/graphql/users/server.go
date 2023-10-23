@@ -2,10 +2,11 @@
 package main
 
 import (
-	"github.com/99designs/gqlgen/graphql/handler"
 	"log"
 	"net/http"
 	"os"
+
+	"github.com/99designs/gqlgen/graphql/handler"
 
 	"github.com/99designs/gqlgen/graphql/playground"
 	"github.com/zalbiraw/go-api-test-service/services/graphql/users/graph"

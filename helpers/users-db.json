@@ -4,16 +4,7 @@
     "name": "Leanne Graham",
     "username": "Bret",
     "email": "Sincere@april.biz",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
+    "address": null,
     "phone": "1-770-736-8031 x56442",
     "website": "hildegard.org",
     "company": {
@@ -154,11 +145,7 @@
     },
     "phone": "210.067.6132",
     "website": "elvis.io",
-    "company": {
-      "name": "Johns Group",
-      "catchPhrase": "Configurable multimedia task-force",
-      "bs": "generate enterprise e-tailers"
-    }
+    "company": null
   },
   {
     "id": "8",

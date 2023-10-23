@@ -1,8 +1,6 @@
 FROM        golang:1.17.6-alpine
 
-MAINTAINER  Zaid Albirawi
-
-WORKDIR     /go/src/github.com/zalbiraw/go-api-test-service
+WORKDIR     C:\Users\oluwa\Projects\APIs\Sources\go-api-test-service
 
 COPY        go.mod      go.mod
 COPY        helpers/    helpers/

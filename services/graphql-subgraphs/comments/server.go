@@ -23,6 +23,7 @@ func main() {
 	err := helpers.LoadComments()
 
 	if nil != err {
+		log.Println(err)
 		panic("Unable to load comments.")
 	}
 

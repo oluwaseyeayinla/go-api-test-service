@@ -1,8 +1,9 @@
 package graph
 
 import (
-	"github.com/zalbiraw/go-api-test-service/services/graphql-subgraphs/users/graph/generated"
 	"net/http"
+
+	"github.com/zalbiraw/go-api-test-service/services/graphql-subgraphs/users/graph/generated"
 
 	"github.com/99designs/gqlgen/graphql/handler"
 	"github.com/99designs/gqlgen/graphql/handler/debug"
